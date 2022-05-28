@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project5Test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27628728-589a-4d20-98a4-15be6b45ff9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dungeon-game" beforeDir="false" afterPath="$PROJECT_DIR$/../Dungeon-game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../external/PDP_Assignments" beforeDir="false" afterPath="$PROJECT_DIR$/../external/PDP_Assignments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab00-HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../lab00-HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-4" beforeDir="false" afterPath="$PROJECT_DIR$/../project-4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3Final" beforeDir="false" afterPath="$PROJECT_DIR$/../project3Final" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jwljtzn0" />
+  </component>
+  <component name="ProjectId" id="2226OLG4e1DBXS0SQgHBRhb6zXF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="project5Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project5Test.testGameOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Project5Test" />
+      <option name="METHOD_NAME" value="testGameOver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project5Test.testMovingMonsterDied" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Project5Test" />
+      <option name="METHOD_NAME" value="testMovingMonsterDied" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project5Test.testPlayerFellIntoPit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Project5Test" />
+      <option name="METHOD_NAME" value="testPlayerFellIntoPit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project5Test.testPlayerIsDeadWhenEncounterAMonster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Project5Test" />
+      <option name="METHOD_NAME" value="testPlayerIsDeadWhenEncounterAMonster" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Project5Test.testGameOver" />
+      <item itemvalue="JUnit.Project5Test.testMovingMonsterDied" />
+      <item itemvalue="JUnit.Project5Test.testPlayerFellIntoPit" />
+      <item itemvalue="JUnit.Project5Test.testPlayerIsDeadWhenEncounterAMonster" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Project5Test.testPlayerFellIntoPit" />
+        <item itemvalue="JUnit.Project5Test.testMovingMonsterDied" />
+        <item itemvalue="JUnit.Project5Test.testPlayerIsDeadWhenEncounterAMonster" />
+        <item itemvalue="JUnit.Project5Test.testGameOver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27628728-589a-4d20-98a4-15be6b45ff9b" name="Changes" comment="" />
+      <created>1639023303461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639023303461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
